@@ -5,8 +5,8 @@ class ClassBasedComponent extends Component {
     constructor(){
         super();
         this.state={
-            name: "Renu",
-            password: "renu123@"
+            name: "Sana",
+            password: "Sana123@"
         };
     }
 
