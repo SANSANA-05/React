@@ -1,0 +1,26 @@
+Components:
+------------
+    1.Class Based Components
+    2.Function Based Components
+
+Jsx(Javascript and XML):
+------------
+    1.If we want to create a file, the file should always start with capital letter.
+    2.In Jsx we achieve empty tags.
+    3.Parent tag must and should be there
+    4.{ }
+
+props:
+-----------
+    ->props are used to transfer data from one to another Component
+    ->props are immutable(we cannot change the data)
+    ->props are in the form of key and value pair 
+    ->props are present in both Calss and Function Based Component
+        eg:<ChildComponent email={"roji@gmail.com"} skills = {["html","css","js"]} data = {{username: "Roji", password: "admin123@"}}/>
+ 
+
+ States:
+ ----------
+    ->States are used to hold the data
+    ->States are mutable in nature
+    ->States are present only in Class Based Component
